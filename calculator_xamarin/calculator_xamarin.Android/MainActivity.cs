@@ -1,5 +1,9 @@
 ﻿using System;
 
+using Microsoft.AppCenter;
+using Microsoft.AppCenter.Analytics;
+using Microsoft.AppCenter.Crashes;
+
 using Android.App;
 using Android.Content.PM;
 using Android.Runtime;
@@ -23,6 +27,12 @@ namespace calculator_xamarin.Droid
             Xamarin.Essentials.Platform.OnRequestPermissionsResult(requestCode, permissions, grantResults);
 
             base.OnRequestPermissionsResult(requestCode, permissions, grantResults);
+        }
+
+        onCreate() 
+        {
+            AppCenter.Start("8391d5b5-c315-4842-a62a-1755f94eac57",
+                   typeof(Analytics), typeof(Crashes));
         }
     }
 }

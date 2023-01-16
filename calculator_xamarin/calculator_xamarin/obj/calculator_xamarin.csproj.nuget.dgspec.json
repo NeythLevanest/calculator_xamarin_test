@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\neyth\\Desktop\\test-deploy-appxamarin\\calculator_xamarin_test\\calculator_xamarin\\calculator_xamarin\\calculator_xamarin.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\neyth\\Desktop\\test-deploy-appxamarin\\calculator_xamarin_test\\calculator_xamarin\\calculator_xamarin\\calculator_xamarin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\neyth\\Desktop\\test-deploy-appxamarin\\calculator_xamarin_test\\calculator_xamarin\\calculator_xamarin\\calculator_xamarin.csproj",
+        "projectName": "calculator_xamarin",
+        "projectPath": "C:\\Users\\neyth\\Desktop\\test-deploy-appxamarin\\calculator_xamarin_test\\calculator_xamarin\\calculator_xamarin\\calculator_xamarin.csproj",
+        "packagesPath": "C:\\Users\\neyth\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\neyth\\Desktop\\test-deploy-appxamarin\\calculator_xamarin_test\\calculator_xamarin\\calculator_xamarin\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\neyth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "AngouriMath": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Microsoft.AppCenter.Analytics": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.AppCenter.Crashes": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2012, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
