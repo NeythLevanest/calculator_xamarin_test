@@ -16,11 +16,16 @@ namespace calculator_xamarin.Droid
     {
         protected override void OnCreate(Bundle savedInstanceState)
         {
+          
             base.OnCreate(savedInstanceState);
 
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
             LoadApplication(new App());
+
+            AppCenter.Start("8391d5b5 - c315 - 4842 - a62a - 1755f94eac57",
+                typeof(Analytics), typeof(Crashes));
+
         }
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)
         {
@@ -29,10 +34,5 @@ namespace calculator_xamarin.Droid
             base.OnRequestPermissionsResult(requestCode, permissions, grantResults);
         }
 
-        onCreate() 
-        {
-            AppCenter.Start("{"8391d5b5-c315-4842-a62a-1755f94eac57"}",
-                   typeof(Analytics), typeof(Crashes));
-        }
     }
 }
