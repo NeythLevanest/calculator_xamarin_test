@@ -1,0 +1,15 @@
+C:\Users\neyth\Desktop\test-deploy-appxamarin\calculator_xamarin_test\calculator_xamarin\calculator_xamarin\bin\Debug\netstandard2.0\calculator_xamarin.deps.json
+C:\Users\neyth\Desktop\test-deploy-appxamarin\calculator_xamarin_test\calculator_xamarin\calculator_xamarin\bin\Debug\netstandard2.0\calculator_xamarin.dll
+C:\Users\neyth\Desktop\test-deploy-appxamarin\calculator_xamarin_test\calculator_xamarin\calculator_xamarin\bin\Debug\netstandard2.0\ref\calculator_xamarin.dll
+C:\Users\neyth\Desktop\test-deploy-appxamarin\calculator_xamarin_test\calculator_xamarin\calculator_xamarin\bin\Debug\netstandard2.0\calculator_xamarin.pdb
+C:\Users\neyth\Desktop\test-deploy-appxamarin\calculator_xamarin_test\calculator_xamarin\calculator_xamarin\obj\Debug\netstandard2.0\calculator_xamarin.csproj.AssemblyReference.cache
+C:\Users\neyth\Desktop\test-deploy-appxamarin\calculator_xamarin_test\calculator_xamarin\calculator_xamarin\obj\Debug\netstandard2.0\calculator_xamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neyth\Desktop\test-deploy-appxamarin\calculator_xamarin_test\calculator_xamarin\calculator_xamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\neyth\Desktop\test-deploy-appxamarin\calculator_xamarin_test\calculator_xamarin\calculator_xamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\neyth\Desktop\test-deploy-appxamarin\calculator_xamarin_test\calculator_xamarin\calculator_xamarin\obj\Debug\netstandard2.0\calculator_xamarin.AssemblyInfoInputs.cache
+C:\Users\neyth\Desktop\test-deploy-appxamarin\calculator_xamarin_test\calculator_xamarin\calculator_xamarin\obj\Debug\netstandard2.0\calculator_xamarin.AssemblyInfo.cs
+C:\Users\neyth\Desktop\test-deploy-appxamarin\calculator_xamarin_test\calculator_xamarin\calculator_xamarin\obj\Debug\netstandard2.0\calculator_xamarin.csproj.CoreCompileInputs.cache
+C:\Users\neyth\Desktop\test-deploy-appxamarin\calculator_xamarin_test\calculator_xamarin\calculator_xamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\neyth\Desktop\test-deploy-appxamarin\calculator_xamarin_test\calculator_xamarin\calculator_xamarin\obj\Debug\netstandard2.0\calculator_xamarin.dll
+C:\Users\neyth\Desktop\test-deploy-appxamarin\calculator_xamarin_test\calculator_xamarin\calculator_xamarin\obj\Debug\netstandard2.0\ref\calculator_xamarin.dll
+C:\Users\neyth\Desktop\test-deploy-appxamarin\calculator_xamarin_test\calculator_xamarin\calculator_xamarin\obj\Debug\netstandard2.0\calculator_xamarin.pdb

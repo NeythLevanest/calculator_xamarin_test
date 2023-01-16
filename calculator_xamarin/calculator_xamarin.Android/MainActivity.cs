@@ -31,7 +31,7 @@ namespace calculator_xamarin.Droid
 
         onCreate() 
         {
-            AppCenter.Start("8391d5b5-c315-4842-a62a-1755f94eac57",
+            AppCenter.Start("{"8391d5b5-c315-4842-a62a-1755f94eac57"}",
                    typeof(Analytics), typeof(Crashes));
         }
     }
